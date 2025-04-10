@@ -1,48 +1,60 @@
-<!-- Neon Green GitHub README -->
+<!-- 🌟 Modern Neon Green GitHub Profile README -->
 
-<h1 align="center" style="color: #39FF14; text-shadow: 0 0 10px #39FF14;">🚀 Ismoil Obidov</h1>
+<h1 align="center" style="color: #39FF14; text-shadow: 0 0 12px #39FF14;">Hi, I'm Otabek Subkhanov 👋</h1>
 
-<p align="center" style="color: #39FF14; font-size: 18px; text-shadow: 0 0 5px #39FF14;">
-  Welcome to my neon-green world of code 🌐💻<br>
-  I'm a junior developer building awesome things with Laravel, JavaScript, and more.
+<p align="center" style="color: #39FF14; font-size: 18px; text-shadow: 0 0 6px #39FF14;">
+  💻 Web Developer | 🚀 Tech Enthusiast | 🎯 Always Learning
 </p>
 
-<hr style="border: 1px solid #39FF14; box-shadow: 0 0 5px #39FF14;">
-
-<h2 style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">📊 GitHub Stats</h2>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subkhanovvv&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_rank=false" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subkhanovvv&layout=compact&theme=chartreuse-dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subkhanovvv&show_icons=true&theme=chartreuse-dark&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subkhanovvv&layout=compact&theme=chartreuse-dark" width="40%" />
 </p>
 
-<h2 style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">🏆 Trophies</h2>
+<br/>
+
+<h2 align="center" style="color: #39FF14; text-shadow: 0 0 6px #39FF14;">🌐 About Me</h2>
+
+<p align="center" style="color: #C3FFC3; max-width: 700px; margin: auto; font-size: 16px;">
+  I’m Otabek, a passionate junior developer who loves turning ideas into reality with code. Currently focused on building projects with Laravel, JavaScript, and pure HTML/CSS. I enjoy clean UI design, learning new tech, and solving real-world problems.
+</p>
+
+<br/>
+
+<h2 align="center" style="color: #39FF14; text-shadow: 0 0 6px #39FF14;">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subkhanovvv&theme=radical&no-frame=true&title=Commits,Repositories,Followers,Stars&column=4" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=39FF14">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=39FF14">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=39FF14">
+  <img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=39FF14">
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=39FF14">
 </p>
 
-<hr style="border: 1px solid #39FF14; box-shadow: 0 0 5px #39FF14;">
+<br/>
 
-<h2 style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">🧠 Skills & Tools</h2>
+<h2 align="center" style="color: #39FF14; text-shadow: 0 0 6px #39FF14;">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=39FF14">
+  <img src="https://github-profile-trophy.vercel.app/?username=subkhanovvv&theme=onestar&title=Commits,Repositories,Followers,Stars&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
-<h2 style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">📫 Contact Me</h2>
+<br/>
 
-<p style="color: #39FF14; font-size: 16px;">
-  💌 Email: <a href="mailto:your.email@example.com" style="color:#39FF14;">your.email@example.com</a><br>
-  🌐 Portfolio: <a href="https://yourwebsite.com" style="color:#39FF14;">yourwebsite.com</a>
+<h2 align="center" style="color: #39FF14; text-shadow: 0 0 6px #39FF14;">📫 Let's Connect</h2>
+
+<p align="center" style="color: #C3FFC3; font-size: 16px;">
+  💌 Email: <a href="mailto:otabeksubkhanov@example.com" style="color:#39FF14;">otabeksubkhanov@example.com</a><br/>
+  🌐 Website: <a href="https://yourwebsite.com" style="color:#39FF14;">yourwebsite.com</a><br/>
+  💼 LinkedIn: <a href="https://linkedin.com/in/yourprofile" style="color:#39FF14;">linkedin.com/in/yourprofile</a>
 </p>
 
-<hr style="border: 1px solid #39FF14; box-shadow: 0 0 5px #39FF14;">
+<br/>
 
-<p align="center" style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">
-  ✨ Thanks for visiting my profile ✨
+---
+
+<p align="center" style="color: #39FF14; font-size: 14px; text-shadow: 0 0 4px #39FF14;">
+  ⚡️ Powered by code and caffeine | Built with ❤️ by Otabek Subkhanov
 </p>
