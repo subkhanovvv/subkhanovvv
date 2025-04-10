@@ -38,12 +38,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
   <a href="https://x.com/subkhanovvv">
-    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/X(twitter)-000?style=for-the-badge&logo=x&logoColor=39FF14" />
+  </a>
+    <a href="https://otabek.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=web&logoColor=39FF14" />
   </a>
     <a href="mailto:otabeksubkhanov@example.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=39FF14" />
-  </a>
-  <a href="https://otabek.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=web&logoColor=39FF14" />
   </a>
 </p>
