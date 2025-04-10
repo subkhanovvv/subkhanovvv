@@ -1,5 +1,4 @@
-<h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14;">Otabek</h1>
-<h2 align="center" style="color:#39FF14; text-shadow: 0 0 6px #39FF14;">Backend Developer</h2>
+<h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14;">Subkhanov Otabek</h1>
 
 <p align="center" style="color:#C3FFC3; font-size: 16px; max-width: 700px; margin: auto;">
   Backend-Focused Developer with experience in Laravel, API integration, and database management.<br>
@@ -29,7 +28,7 @@
 
 ---
 
-<h3 align="center" style="color:#39FF14;">📫 Let’s Connect</h3>
+<h3 align="center" style="color:#39FF14;">📫 Let’s Contact</h3>
 
 <p align="center">
   <a href="https://t.me/subkhanoov">
@@ -41,18 +40,7 @@
   <a href="https://x.com/subkhanovvv">
     <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=39FF14" />
   </a>
-</p>
-
----
-
-<h3 align="center" style="color:#39FF14;">Portfolio</h3>
-
-<p align="center">
   <a href="https://otabek.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/subkhanov.dev-000?style=for-the-badge&logo=vercel&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=39FF14" />
   </a>
 </p>
-
----
-
-<p align="center" style="color:#C3FFC3;"> Crafted with 💚 by Otabek Subkhanov</p>
