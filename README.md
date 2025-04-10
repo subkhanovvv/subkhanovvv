@@ -7,7 +7,7 @@
   <img src="https://your-image-url.com/profile.jpg" width="150" style="border-radius: 50%; box-shadow: 0 0 15px #39FF14;" alt="Otabek's profile photo"/>
 </p>
 
-<p align="center" style="color:#C3FFC3; font-size: 16px; max-width: 700px; margin: auto;">
+<p align="center" style="color:#C3FFC3; font-size: 16px; max-width: 700px; margin: auto; background:url('https://i.pinimg.com/originals/b9/ec/25/b9ec253ff7c54e72511f419eabd6acf0.jpg');">
   Backend-Focused Developer with experience in Laravel, API integration, and database management.<br>
   Familiar with frontend technologies like JavaScript and Bootstrap for building responsive user interfaces.
 </p>
